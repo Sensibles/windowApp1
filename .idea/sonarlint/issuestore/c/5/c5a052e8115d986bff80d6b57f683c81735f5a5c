@@ -1,0 +1,25 @@
+
+jsquid:S00112{"FDefine and throw a dedicated exception instead of using a generic one.(’³äÅıÿÿÿÿ8ºşƒˆ-
+hsquid:UnusedPrivateMethod"7Remove this unused private "createUIComponents" method.(Á›°çıÿÿÿÿ8‚¿¬ˆ-
+Gsquid:S1068")Remove this unused "label" private field.(ßë·²8±Ô´ˆ-
+asquid:HiddenFieldCheckV"9Rename "login" which hides the field declared at line 11.(—ÜğA8‡“ûˆ-
+psquid:S1192m"MDefine a constant instead of duplicating this literal "Stan konta: " 3 times.(÷è®Òùÿÿÿÿ8‡“ûˆ-
+Osquid:S1612:",Replace this lambda with a method reference.(Ûòş¦ÿÿÿÿÿ8‡“ûˆ-
+Fsquid:S1604E"(Make this anonymous inner class a lambda(¡³®¹8‡“ûˆ-
+Ksquid:S1604>"(Make this anonymous inner class a lambda(íÜùãúÿÿÿÿ8‡“ûˆ-
+Jsquid:S1612,",Replace this lambda with a method reference.(á£åş8‡“ûˆ-
+Osquid:S16123",Replace this lambda with a method reference.(Ú¿ºÿÿÿÿÿ8Ô¥–ˆ-
+Jsquid:S1612A",Replace this lambda with a method reference.(çé…¡8‡“ûˆ-
+csquid:CallToDeprecatedMethodW"/Remove this use of "getText"; it is deprecated.(ğÑøˆÿÿÿÿÿ8‡“ûˆ-
+Ksquid:S1604)"(Make this anonymous inner class a lambda(ØÇÅüÿÿÿÿ8¾ûóˆ-
+csquid:CallToDeprecatedMethodd"/Remove this use of "getText"; it is deprecated.(ğÑøˆÿÿÿÿÿ8‡“ûˆ-
+Psquid:S1135"2Complete the task associated to this TODO comment.(¡ç‚Ï8‚¿¬ˆ-
+8squid:S1220""Move this file to a named package.8Ğ½Œˆ-
+esquid:S00112~"FDefine and throw a dedicated exception instead of using a generic one.(ä‘Èœ8”ªóˆ-
+Osquid:S1612H",Replace this lambda with a method reference.(›íŸÍşÿÿÿÿ8‡“ûˆ-
+asquid:HiddenFieldCheckc"9Rename "login" which hides the field declared at line 11.(—ÜğA8‡“ûˆ-
+„squid:S1845"aRename field "Login" to prevent any misunderstanding/clash with field "login" defined on line 11.(ÛªÿÀşÿÿÿÿ8³ÂêŒˆ-
+Fsquid:S16040"(Make this anonymous inner class a lambda(ùõù8Ô¥–ˆ-
+Ksquid:S16047"(Make this anonymous inner class a lambda(‘á·¸ıÿÿÿÿ8‡“ûˆ-
+tsquid:S00116"PRename this field "Login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛªÿÀşÿÿÿÿ8¦¨èŒˆ-
+\squid:S2130y">Use "Double.parseDouble" for this string-to-double conversion.(„ğş8é¥‚ˆ-

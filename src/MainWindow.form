@@ -60,7 +60,7 @@
             </constraints>
             <properties>
               <horizontalTextPosition value="2"/>
-              <text value="Logowanie!"/>
+              <text value="Logowanie"/>
               <verticalAlignment value="1"/>
             </properties>
           </component>
